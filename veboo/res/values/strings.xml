@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Test -->
+    <string name="title_section1">分组1</string>
+    <string name="title_section2">分组2</string>
+    <string name="title_section3">分组3</string>
+    <string name="action_example">Example action</string>
+
+    <string name="app_name">veboo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Actions -->
+    <string name="action_settings">设置</string>
+
+    <!-- SettingsActivity -->
+    <string name="settings">@string/action_settings</string>
+
+</resources>
